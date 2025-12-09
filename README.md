@@ -26,6 +26,28 @@ Users can store new credentials by entering:
 - Matches the provided Figma design  
 
 ---
+## 📸 Screenshots
+
+Below are the main screens of the Password Manager app, following the provided Figma design.
+
+### 🔐 PIN Unlock Screen
+<img src="screenshots/pin.png" width="300"/>
+
+---
+
+### ➕ Add Password Bottom Sheet
+<img src="screenshots/add.png" width="300"/>
+
+---
+
+### 🏠 Home Screen (Password List)
+<img src="screenshots/home.png" width="300"/>
+
+---
+
+### 📄 Account Details
+<img src="screenshots/details.png" width="300"/>
+---
 
 ## 🛡️ Security Features
 
@@ -160,20 +182,6 @@ The user interface closely follows:
 - Material 3 guidelines  
 - Responsive & clean layout  
 - Modern bottom sheets and list components  
-
----
-
-## 🔗 Screenshots (Add to GitHub)
-
-Upload screenshots of:
-
-- Home screen  
-- Add Password bottom sheet  
-- Password strength meter  
-- Password generator  
-- Account details  
-- Biometric prompt  
-- PIN screen  
 
 ---
 
